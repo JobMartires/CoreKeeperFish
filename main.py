@@ -24,7 +24,6 @@ def main():
 
         except pyautogui.ImageNotFoundException:
             continue
-
 main()
 
 
